@@ -58,8 +58,7 @@ class="language-switcher">
 href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-information/privacy-policy-and-copyright/" class="current_lang " >English</a>
 <span
 style="color: #ffffff;">&nbsp;|&nbsp;</span>
-<a
-href="#!" class=" last" style="font-size: 13px;" >中文</a></div><div
+<a class=" last" style="font-size: 13px;" >中文</a></div><div
 class="collapse navbar-collapse"><ul
 class="amend_reservation highlight"><li
 style="display:inline;padding-bottom: 5px;"><a
