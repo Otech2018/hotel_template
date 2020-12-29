@@ -11,18 +11,18 @@ class="no-js lt-ie9 ie8" lang="en" dir="ltr"> <![endif]-->
 <!--[if IE 9]><html
 class="no-js ie9" lang="en" dir="ltr"> <![endif]-->
 <!--[if gt IE 9]><!--><html
-class="no-js" lang="en" dir="ltr">  
+class="no-js" lang="en" dir="ltr">
 <!--<![endif]--><head><meta
 http-equiv="X-UA-Compatible" content="IE=edge"><meta
 http-equiv="Content-Type" content="text/html; charset=utf-8"><meta
 http-equiv="Content-Language" content="en"><meta
 http-equiv="imagetoolbar" content="no"><meta
 name="robots" content="index,follow"><meta
-name="keywords" content="The <?=$site_name; ?>hotel facilities, The <?=$site_name; ?>pool, The <?=$site_name; ?>barber, The <?=$site_name; ?>gym"><meta
-name="description" content="Guests of The <?=$site_name; ?>Hotel and Residences can enjoy facilities including UR SPA, Barber by Truefitt & Hill, Pool, and Gym."><meta
+name="keywords" content="The <?=$site_name; ?>awards, most promising new hotel award, kuala lumpur luxury hotel awards, new hotel spa, top hotel in the world, best urban hotel"><meta
+name="description" content="The <?=$site_name; ?>- Top 10 Luxury Hotels in Kuala Lumpur awarded by Le Concierge Orient. Top 101 Best Hotels in the World awarded by Tatler Travel Guide 2020."><meta
 name="viewport" content="width=device-width"><meta
 property="og:image" content="https://theruma.com/file/webpage/shared/fb-share2.jpg"/><base
-href="https://theruma.com/"><title>Facilities | The <?=$site_name; ?>| Kuala Lumpur Luxury Hotel</title><link
+href="https://theruma.com/"><title>Awards | The <?=$site_name; ?>Hotel and Residences | Kuala Lumpur Luxury Hotel</title><link
 type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/77fbec9d-a562-47a7-9008-a7cdbb8d4cd8.css"/><link
 type="text/css" charset="utf-8" rel="stylesheet" href="vendor/mrclay/minify/?f=file/template/1/css/bootstrap.min.css,file/template/1/css/animate.css,file/template/1/css/jquery-ui.css,file/template/1/css/pgwslider/pgwslideshow.min.css,file/template/1/css/pgwslider/pgwslideshow_light.min.css,file/template/1/css/fancybox/jquery.fancybox.css,file/template/1/css/chosen/chosen.min.css,file/template/1/css/font-awesome-4.7.0/css/font-awesome.min.css,file/template/0/style.css,file/template/0/content.css,file/template/1/css/content.css"> <script src="vendor/mrclay/minify/?f=file/template/1/js/jquery-1.11.0.js,file/template/1/js/modernizr-2.6.2.min.js,file/template/1/js/custom.js,file/template/1/js/jquery-ui.js,file/template/1/js/jquery.mobile.custom.min.js,file/template/1/js/bootstrap.min.js,file/template/1/js/wow.min.js,file/template/1/js/pgwslider/pgwslideshow.js,file/template/1/js/fancybox/jquery.fancybox.pack.js,file/template/1/js/chosen/chosen.jquery.min.js,file/template/1/js/jquery.formSubmitPanel.min.js,file/template/1/js/newWaterfall.js,file/template/1/js/js.cookie.js"></script> <script>var deviceAgent=navigator.userAgent.toLowerCase();var is_iOS=deviceAgent.match(/(iphone|ipod|ipad)/);var is_iPad=deviceAgent.match(/(ipad)/);</script> <link
 type="image/x-icon" rel="icon" href="https://theruma.com/favicon.ico?u=2" /> <script type="text/javascript"></script> <!--[if lt IE 9]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
@@ -37,12 +37,12 @@ gtag('js',new Date());gtag('config','UA-154876414-1');</script>  <script>!functi
 height="1" width="1" style="display:none"
 src="https://www.facebook.com/tr?id=496139857755650&ev=PageView&noscript=1"
 /></noscript> <script>(function(a,t,b,c,d){c=a.createElement(t);c.src=b,c.defer=true,c.async=true,c.crossOrigin='anonymous';c.type="text/javascript";d=a.getElementsByTagName(t)[0];d.parentNode.insertBefore(c,d)})(document,"script","https://onboard.triptease.io/bootstrap.js?integrationId=01ENWN1452P286NVMD54TV55SC");</script> </head><body
-class="locale_en with-banner" data-spy="scroll"> <script type="text/javascript">$(function(){$(".chosen-location").chosen();$("#privacy > a.btn").click(function(){Cookies.set("privacy_accepted","1",{expires:30});$(this).parent().slideUp();return false;});});</script> <div
+class="locale_en without-banner" data-spy="scroll"> <script type="text/javascript">$(function(){$(".chosen-location").chosen();$("#privacy > a.btn").click(function(){Cookies.set("privacy_accepted","1",{expires:30});$(this).parent().slideUp();return false;});});</script> <div
 class="container text-right" style="position: relative;"><div
 class="rhs"><div><ul><li
 class="dropdown" style="display:inline;padding-bottom: 5px;" id="find_a_hotel">
 <a
-href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel/facilities/#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Find a hotel<span
+href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel/awards/#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Find a hotel<span
 class="caret" style="margin-left: 5px;"></span></a><ul
 class="dropdown-menu"><li
 class="">
@@ -53,8 +53,7 @@ class="">
 href="https://thepuxuan.com/" target="_blank">Beijing</a></li></ul></li></ul></div><div
 id="clockbox" ></div><div
 class="language-switcher">
-<a
-href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel/facilities/" class="current_lang " >English</a>
+<a class="current_lang " >English</a>
 <span
 style="color: #ffffff;">&nbsp;|&nbsp;</span>
 <a class=" last" style="font-size: 13px;" >中文</a></div><div
@@ -64,7 +63,7 @@ style="display:inline;padding-bottom: 5px;"><a
 href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-information/covid-19-update/" target="_self" class="" title="Nav - Covid-19 Update">Covid-19 Update</a></li></ul><ul
 class="amend_reservation"><li
 style="display:inline;padding-bottom: 5px;"><a
-href="https://ovs.tour-list.com/DPSearch/?HotelCode=theruma&Language=en" target="_blank" class="ctc" title="Nav - Room and Flight" data-report-group="Rooms" data-report-label="Facilities - Room and Flight">Room & Flight</a></li></ul><ul
+href="https://ovs.tour-list.com/DPSearch/?HotelCode=theruma&Language=en" target="_blank" class="ctc" title="Nav - Room and Flight" data-report-group="Rooms" data-report-label="Awards - Room and Flight">Room & Flight</a></li></ul><ul
 class="amend_reservation"><li><a
 href="https://be.synxis.com/signIn?chain=24447&hotel=7000&SRC=30&locale=en-US" target="_blank">Amend Reservation</a></li></ul><div
 class="navbar-right hidden-sm-1015 nav-reservation header_reservation_form" style="display: inline;"><div
@@ -77,7 +76,7 @@ class="input-group nav_reserve_field date">
 <input
 type="text" class="form-control" placeholder="Check Out" aria-describedby="basic-addon2" value="" name="nav_checkout" id="nav_checkout" /></div>
 <button
-class="btn navbar-btn btn-sm btn-primary reserve puli_reserve ctc" id="nav_reserve_btn"  data-report-group="Rooms" data-report-label="Facilities">Reserve Now</button></div><div
+class="btn navbar-btn btn-sm btn-primary reserve puli_reserve ctc" id="nav_reserve_btn"  data-report-group="Rooms" data-report-label="Awards">Reserve Now</button></div><div
 class="hidden-lg-1015"><ul
 class="nav xm-center"><li><hr/>
 <a
@@ -107,13 +106,13 @@ class="col-lg-8 collapse navbar-collapse navbar-right" id="navbar-collapse"><div
 class="hidden-lg-1015"><ul
 class="nav xm-center navbar-nav" style="padding-left: 15px;padding-right: 15px;">
 <button
-style="padding: 10px; background:none; border: none;" class="ctc" id="mob_nav_reserve_btn" data-report-group="Rooms" data-report-label="Facilities"><a
+style="padding: 10px; background:none; border: none;" class="ctc" id="mob_nav_reserve_btn" data-report-group="Rooms" data-report-label="Awards"><a
 href="https://be.synxis.com/?chain=24447&hotel=7000&SRC=30&locale=en-US" target="_blank">Room Reservations</a></button><li
 style="display:inline;padding-bottom: 5px;">
 <a
 target="_blank" href="https://be.synxis.com/signIn?chain=24447&hotel=7000&SRC=30&locale=en-US">Amend Reservation</a></li><li
 style="display:inline;padding-bottom: 5px;"><a
-href="https://ovs.tour-list.com/DPSearch/?HotelCode=theruma&Language=en" target="_blank" class="ctc" title="Nav - Room and Flight" data-report-group="Rooms" data-report-label="Facilities - Room and Flight">Room & Flight</a></li><li
+href="https://ovs.tour-list.com/DPSearch/?HotelCode=theruma&Language=en" target="_blank" class="ctc" title="Nav - Room and Flight" data-report-group="Rooms" data-report-label="Awards - Room and Flight">Room & Flight</a></li><li
 style="display:inline;padding-bottom: 5px;"><a
 href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-information/covid-19-update/" target="_blank">Covid-19 Update</a></li><hr/></ul></div><ul
 class="nav navbar-nav menu_body_0"><li
@@ -124,9 +123,9 @@ class="navbar-item-overview navbar-item-1 menuitem_1"><a
 href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel/overview/" title="">Hotel Overview</a></li><li
 class="navbar-item-hostmanship navbar-item-2 menuitem_2"><a
 href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel/hostmanship/" title="">Hostmanship</a></li><li
-class="navbar-item-facilities navbar-item-3 menuitem_3 active"><a
+class="navbar-item-facilities navbar-item-3 menuitem_3"><a
 href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel/facilities/" title="">Facilities</a></li><li
-class="navbar-item-awards navbar-item-4 menuitem_4"><a
+class="navbar-item-awards navbar-item-4 menuitem_4 active"><a
 href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel/awards/" title="">Awards</a></li><li
 class="navbar-item-photo-gallery navbar-item-5 menuitem_5"><a
 href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel/photo-gallery/" title="">Photo Gallery</a></li><li
@@ -178,7 +177,7 @@ class="hidden-lg-1015"><ul
 class="nav xm-center navbar-nav" style="padding-left: 15px;padding-right: 15px;"><li
 class="dropdown" style="display:inline;padding-bottom: 5px;"><hr/>
 <a
-href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel/facilities/#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="mob_find_hotel">Find a hotel</a><ul
+href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel/awards/#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="mob_find_hotel">Find a hotel</a><ul
 class="dropdown-menu" style="background-color:transparent;"><li
 class="">
 <a
@@ -190,126 +189,122 @@ href="http://www.thepuxuan.com/" target="_blank">Beijing</a></li></ul><hr/></li>
 class="nav xm-center"><li
 style="float:left; width:50%;">
 <a
-href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel/facilities/?" class="current_lang " >English</a></li><li
+href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel/awards/?" class="current_lang " >English</a></li><li
 style="float:left; width:50%;">
 <a
-href="/zh-hans/kuala-lumpur-luxury-hotel/facilities/?" class=" last" style="font-size: 13px;" >中文</a></li></ul></div></div></div></nav><div
-id="content"><div><div
-class="carousel slide dining wow fadeIn visible-lg-1015" data-ride="carousel" id="myCarousel"><ol
-class="carousel-indicators"><li
-data-target="#myCarousel" data-slide-to="0" class="active" ><b></b></li><li
-data-target="#myCarousel" data-slide-to="1" ><b></b></li><li
-data-target="#myCarousel" data-slide-to="2" ><b></b></li><li
-data-target="#myCarousel" data-slide-to="3" ><b></b></li><li
-data-target="#myCarousel" data-slide-to="4" ><b></b></li></ol><div
-class="carousel-inner" role="listbox"><div
-class="item active"><div
-class="image_slide" title="" button_url="#" style="background-image: url(file/webpage/shared/banner/meetings-n-facilities/barber-at-the-ruma-by-truefitt-and-hill.jpg); "></div></div><div
-class="item "><div
-class="image_slide" title="" button_url="#" style="background-image: url(file/webpage/shared/banner/the-ruma-gym-1.jpg); "></div></div><div
-class="item "><div
-class="image_slide" title="" button_url="#" style="background-image: url(file/webpage/shared/banner/meetings-n-facilities/the-ruma-pool-2.jpg); "></div></div><div
-class="item "><div
-class="image_slide" title="" button_url="#" style="background-image: url(file/webpage/shared/banner/meetings-n-facilities/the-ruma-pool.jpg); "></div></div><div
-class="item "><div
-class="image_slide" title="" button_url="#" style="background-image: url(file/webpage/shared/banner/meetings-n-facilities/the-ruma-facilities.jpg); "></div></div></div><a
-class="left carousel-control" data-slide="prev" href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel/facilities/#myCarousel" role="button" style="display:block!important;">
-<span
-aria-hidden="true" class="glyphicon glyphicon-menu-left"></span>
-<span
-class="sr-only"></span>
-</a><a
-class="right carousel-control" data-slide="next" href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel/facilities/#myCarousel" role="button" style="display:block!important;">
-<span
-aria-hidden="true" class="glyphicon glyphicon-menu-right"></span>
-<span
-class="sr-only"></span>
-</a></div><div
-id="carousel-example-generic-mobile" class="carousel slide hidden-lg-1015" data-ride="carousel"><ol
-class="carousel-indicators"><li
-data-target="#carousel-example-generic-mobile" data-slide-to="0" class="active" ><b></b></li><li
-data-target="#carousel-example-generic-mobile" data-slide-to="1" ><b></b></li><li
-data-target="#carousel-example-generic-mobile" data-slide-to="2" ><b></b></li><li
-data-target="#carousel-example-generic-mobile" data-slide-to="3" ><b></b></li><li
-data-target="#carousel-example-generic-mobile" data-slide-to="4" ><b></b></li></ol><div
-class="carousel-inner" role="listbox"><div
-class="item active"><div>
-<img
-src="file/webpage/shared/banner/meetings-n-facilities/barber-at-the-ruma-by-truefitt-and-hill.jpg" width="100%;"></div></div><div
-class="item "><div>
-<img
-src="file/webpage/shared/banner/the-ruma-gym-1.jpg" width="100%;"></div></div><div
-class="item "><div>
-<img
-src="file/webpage/shared/banner/meetings-n-facilities/the-ruma-pool-2.jpg" width="100%;"></div></div><div
-class="item "><div>
-<img
-src="file/webpage/shared/banner/meetings-n-facilities/the-ruma-pool.jpg" width="100%;"></div></div><div
-class="item "><div>
-<img
-src="file/webpage/shared/banner/meetings-n-facilities/the-ruma-facilities.jpg" width="100%;"></div></div></div>
-<a
-class="left carousel-control" href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel/facilities/#carousel-example-generic-mobile" role="button" data-slide="prev">
-<span
-class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-<span
-class="sr-only">Previous</span>
-</a>
-<a
-class="right carousel-control" href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel/facilities/#carousel-example-generic-mobile" role="button" data-slide="next">
-<span
-class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-<span
-class="sr-only">Next</span>
-</a></div></div><div
-class="container dining lobby-lounge"><h1 class="text-center">Facilities</h1><div
-class="row"><div
-class="col-md-3"><div
-class="text-center"><img
-style="margin-top: -8px;" src="file/webpage/shared/barber-at-the-ruma-by-truefitt-and-hill-small.jpg" alt="Barber at The <?=$site_name; ?>by Truefitt &amp; Hill" caption="false" width="220" height="163" /></div></div><div
-class="col-md-5"><h4>Barber at The <?=$site_name; ?>by Truefitt &amp; Hill</h4><p>Originating from London, England and famed the world over, the Barber at The <?=$site_name; ?>by <a
-href="http://www.truefittandhill.com.my" target="_blank" rel="noopener">Truefitt &amp; Hill</a> is the best in its class, offering grooming services to discerning gentleman.</p><p><a
-title="Facilities - Barber at The <?=$site_name; ?>by Truefitt &amp; Hill - Menu" class="ctc" href="file/webpage/shared/20201113-truefitt-hill-menu.pdf" target="_blank" data-report-group="Others" data-report-label="Barber at The <?=$site_name; ?>by Truefitt &amp; Hill - Menu" rel="noopener">Barber at The <?=$site_name; ?>by Truefitt &amp; Hill Menu</a></p></div><div
-class="col-md-4"><div
-class="col-xs-6 text-center text-center-facilities"><h4>Location<span
-class="hidden-xs hidden-sm"><br
-/>&nbsp;</span></h4><p>Level 6</p></div><div
-class="col-xs-6 text-center text-center-facilities l-line"><h4>Opening Hours</h4><p>Tuesdays to Fridays<br
-/>14:00 &ndash; 21:00</p><p>Saturdays and Sundays<br
-/>11:00 &ndash; 20:00</p><p>Closed on Mondays</p></div></div></div><hr
-/><div
-class="row"><div
-class="col-md-3"><div
-class="text-center"><img
-style="margin-top: -8px;" src="file/webpage/shared/the-ruma-infinity-pool.jpg" alt="The <?=$site_name; ?>Infinity Pool" caption="false" width="220" height="163" /></div></div><div
-class="col-md-5"><h4>Infinity pool</h4><p>Cantilevering over the building&rsquo;s edge on the 6<sup>th</sup> floor to offer dreamscape views from above, our outdoor adult pool is 1.2 meters deep while the children&rsquo;s pool is 0.5 meters deep. Sun-soaked chaise lounges&nbsp;and day beds dot the neighboring sun deck, along with an outdoor terrace meeting space.</p></div><div
-class="col-md-4"><div
-class="col-xs-6 text-center r-line text-center-facilities"><h4>Location<span
-class="hidden-xs hidden-sm"><br
-/>&nbsp;</span></h4><p>Level 6</p></div><div
-class="col-xs-6 text-center text-center-facilities"><h4>Opening Hours</h4><p>09:00 - 12:00<br
-/>13:00 - 16:00<br
-/>17:00 - 20:00</p></div></div></div><hr
-/><div
-class="row"><div
-class="col-md-3"><div
-class="text-center"><img
-style="margin-top: -8px;" src="file/webpage/shared/the-ruma-gym-1.jpg" caption="false" width="480" /></div></div><div
-class="col-md-5"><h4>Gym</h4><p>The state-of-the-art gym on the 6<sup>th</sup> floor is fitted with TECHNOGYM equipment for the ultimate work-out session.</p></div><div
-class="col-md-4"><div
-class="col-xs-6 text-center r-line text-center-facilities"><h4>Location<span
-class="hidden-xs hidden-sm"><br
-/>&nbsp;</span></h4><p>Level 6</p></div><div
-class="col-xs-6 text-center text-center-facilities"><h4>Opening Hours</h4><p>24 Hours</p></div></div></div></div></div>
+href="/zh-hans/kuala-lumpur-luxury-hotel/awards/?" class=" last" style="font-size: 13px;" >中文</a></li></ul></div></div></div></nav><div
+id="content"><div
+class="container award first2"><div
+class="row"><h1 class="white text-center" style="margin-top: 30px;">Awards</h1><div
+class="container title"><h3>2020</h3><div
+class="col-xs-6"><h4>Award Title</h4></div><div
+class="col-xs-6"><h4>Awarded By</h4></div></div><div
+class="container title"><div
+class="col-xs-6"><p
+class="award-color">Top 20 Restaurants in Malaysia 2020</p></div><div
+class="col-xs-6"><p>Malaysia Tatler</p></div></div><div
+class="container title"><div
+class="col-xs-6"><p
+class="award-color">Rest &amp; Relax List 2020: Best Glow-Boosting Facial for UR A GODDESS Treatment at UR SPA</p></div><div
+class="col-xs-6"><p>Female Malaysia</p></div></div><div
+class="container title"><div
+class="col-xs-6"><p
+class="award-color">Top 101 Best Hotels in the World</p></div><div
+class="col-xs-6"><p>Tatler Travel Guide 2020</p></div></div><div
+class="container title"><div
+class="col-xs-6"><p
+class="award-color">Top 100 Most Incredible Hotels in The World</p></div><div
+class="col-xs-6"><p>Fodor&rsquo;s Travel</p></div></div><p>&nbsp;</p><div
+class="container title"><h3>2019</h3><div
+class="col-xs-6"><h4>Award Title</h4></div><div
+class="col-xs-6"><h4>Awarded By</h4></div></div><div
+class="container title"><div
+class="col-xs-6"><p
+class="award-color">Best Urban Hotels 2019: Asia and Oceania</p></div><div
+class="col-xs-6"><p>Wallpaper*</p></div></div><div
+class="container title"><div
+class="col-xs-6"><p
+class="award-color">Bronze Award</p></div><div
+class="col-xs-6"><p>DFA Design for Asia Awards 2019</p></div></div><div
+class="container title"><div
+class="col-xs-6"><p
+class="award-color">Best New Hotel, Global</p></div><div
+class="col-xs-6"><p>Haute Grandeur Global Hotel Awards</p></div></div><div
+class="container title"><div
+class="col-xs-6"><p
+class="award-color">Best Design Hotel in Malaysia</p></div><div
+class="col-xs-6"><p>Haute Grandeur Global Hotel Awards</p></div></div><div
+class="container title"><div
+class="col-xs-6"><p
+class="award-color">Best New Hotel Spa, Global</p></div><div
+class="col-xs-6"><p>Haute Grandeur Global Hotel Awards</p></div></div><div
+class="container title"><div
+class="col-xs-6"><p
+class="award-color">Best Luxury Spa in Malaysia</p></div><div
+class="col-xs-6"><p>Haute Grandeur Global Hotel Awards</p></div></div><div
+class="container title"><div
+class="col-xs-6"><p
+class="award-color">The Luxe List 2019: Best New Hotels in Asia-Pacific</p></div><div
+class="col-xs-6"><p>DestinAsian</p></div></div><div
+class="container title"><div
+class="col-xs-6"><p
+class="award-color">5<sup>th</sup> Best Hotel in Asia 2019</p></div><div
+class="col-xs-6"><p>Luxury Lifestyle Magazine Readers&rsquo; Travel Awards</p></div></div><p>&nbsp;</p><div
+class="container title"><h3>2018</h3><div
+class="col-xs-6"><h4>Award Title</h4></div><div
+class="col-xs-6"><h4>Awarded By</h4></div></div><div
+class="container title"><div
+class="col-xs-6"><p
+class="award-color">Top 10 Luxury Hotels in Kuala Lumpur</p></div><div
+class="col-xs-6"><p>Le Concierge Orient</p></div></div><div
+class="container title"><div
+class="col-xs-6"><p
+class="award-color">Top Cocktail Experience</p></div><div
+class="col-xs-6"><p>Le Concierge Orient</p></div></div><div
+class="container title"><div
+class="col-xs-6"><p
+class="award-color">10 Best Luxury Hotels in Kuala Lumpur</p></div><div
+class="col-xs-6"><p>South China Morning Post</p></div></div><div
+class="container title"><div
+class="col-xs-6"><p
+class="award-color">Top Cocktail Experience</p></div><div
+class="col-xs-6"><p>South China Morning Post</p></div></div><div
+class="container title"><div
+class="col-xs-6"><p
+class="award-color">Most Promising New Hotel</p></div><div
+class="col-xs-6"><p>South China Morning Post</p></div></div><div
+class="container title"><div
+class="col-xs-6"><p
+class="award-color">10 Most Exciting Hotels for 2019</p></div><div
+class="col-xs-6"><p>The Independent</p></div></div></div><p><br
+/><br
+/></p><div
+class="modal fade" id="2016-03" role="dialog" aria-labelledby="eventSpaceChartModalLabel" tabindex="-1"><div
+class="modal-dialog" role="document"><div
+class="modal-content"><div
+class="modal-body" style="padding: 0px; text-align: center;"><div
+class="modal_close"><button
+type="button" data-dismiss="modal"><span
+aria-hidden="true">&times;</span></button></div><div
+class="award-image"><img
+class="img-award img-responsive" src="file/webpage/shared/awards/2016-tripadvisor-cert-of-excellence.jpg" /></div></div></div></div></div><div
+class="modal fade" id="2016-02" role="dialog" aria-labelledby="eventSpaceChartModalLabel" tabindex="-1"><div
+class="modal-dialog" role="document"><div
+class="modal-content"><div
+class="modal-body" style="padding: 0px; text-align: center;"><div
+class="modal_close"><button
+type="button" data-dismiss="modal"><span
+aria-hidden="true">&times;</span></button></div><div
+class="award-image"><img
+class="img-award img-responsive" src="file/webpage/shared/awards/2016-one-of-editors-most-favorite-restaurants.jpg" /></div></div></div></div></div></div></div>
+
+
+
+
+
 
 
 <?php include('../../footer.php'); ?>
-
-
-
-
-
-
 
 
 
