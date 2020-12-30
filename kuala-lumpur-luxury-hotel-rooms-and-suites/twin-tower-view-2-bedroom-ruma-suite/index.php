@@ -1,4 +1,7 @@
 <?php include('../../ht_access.php'); ?>
+
+
+
 <!DOCTYPE html>
 <!--[if lt IE 7]><html
 class="no-js lt-ie9 lt-ie8 lt-ie7 ie6" lang="en" dir="ltr"> <![endif]-->
@@ -16,11 +19,11 @@ http-equiv="Content-Type" content="text/html; charset=utf-8"><meta
 http-equiv="Content-Language" content="en"><meta
 http-equiv="imagetoolbar" content="no"><meta
 name="robots" content="index,follow"><meta
-name="keywords" content="The <?=$site_name; ?>corner studio, booking hotel, hotel rooms and suites, hotel reservations, klcc, Kuala Lumpur accommodation"><meta
-name="description" content="Book the spacious corner studio concept room at The <?=$site_name; ?>Hotel and Residences, with views that overlook Kuala Lumpur’s spectacular skyline."><meta
+name="keywords" content="2-bedroom <?=$site_name; ?>suite, twin towers, 2 bedroom hotels suites, booking hotel, hotel rooms and suites, hotel reservations"><meta
+name="description" content="The truly remarkable and plush 2-Bedroom <?=$site_name; ?>Suite is furnished to the highest standards of luxury living. Make a reservation now!"><meta
 name="viewport" content="width=device-width"><meta
 property="og:image" content="https://theruma.com/file/webpage/shared/fb-share2.jpg"/><base
-href="https://theruma.com/"><title>Corner Studio | The <?=$site_name; ?>Rooms &amp; Suites | Kuala Lumpur Luxury Hotel</title><link
+href="https://theruma.com/"><title>2-Bedroom <?=$site_name; ?>Suite | The <?=$site_name; ?>Rooms &amp; Suites | Kuala Lumpur Luxury Hotel</title><link
 type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/77fbec9d-a562-47a7-9008-a7cdbb8d4cd8.css"/><link
 type="text/css" charset="utf-8" rel="stylesheet" href="vendor/mrclay/minify/?f=file/template/1/css/bootstrap.min.css,file/template/1/css/animate.css,file/template/1/css/jquery-ui.css,file/template/1/css/pgwslider/pgwslideshow.min.css,file/template/1/css/pgwslider/pgwslideshow_light.min.css,file/template/1/css/fancybox/jquery.fancybox.css,file/template/1/css/chosen/chosen.min.css,file/template/1/css/font-awesome-4.7.0/css/font-awesome.min.css,file/template/0/style.css,file/template/0/content.css,file/template/1/css/content.css"> <script src="vendor/mrclay/minify/?f=file/template/1/js/jquery-1.11.0.js,file/template/1/js/modernizr-2.6.2.min.js,file/template/1/js/custom.js,file/template/1/js/jquery-ui.js,file/template/1/js/jquery.mobile.custom.min.js,file/template/1/js/bootstrap.min.js,file/template/1/js/wow.min.js,file/template/1/js/pgwslider/pgwslideshow.js,file/template/1/js/fancybox/jquery.fancybox.pack.js,file/template/1/js/chosen/chosen.jquery.min.js,file/template/1/js/jquery.formSubmitPanel.min.js,file/template/1/js/newWaterfall.js,file/template/1/js/js.cookie.js"></script> <script>var deviceAgent=navigator.userAgent.toLowerCase();var is_iOS=deviceAgent.match(/(iphone|ipod|ipad)/);var is_iPad=deviceAgent.match(/(ipad)/);</script> <link
 type="image/x-icon" rel="icon" href="https://theruma.com/favicon.ico?u=2" /> <script type="text/javascript"></script> <!--[if lt IE 9]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
@@ -40,7 +43,7 @@ class="container text-right" style="position: relative;"><div
 class="rhs"><div><ul><li
 class="dropdown" style="display:inline;padding-bottom: 5px;" id="find_a_hotel">
 <a
-href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/corner-studio/#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Find a hotel<span
+href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/twin-tower-view-2-bedroom-ruma-suite/#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Find a hotel<span
 class="caret" style="margin-left: 5px;"></span></a><ul
 class="dropdown-menu"><li
 class="">
@@ -52,7 +55,7 @@ href="https://thepuxuan.com/" target="_blank">Beijing</a></li></ul></li></ul></d
 id="clockbox" ></div><div
 class="language-switcher">
 <a
-href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/corner-studio/" class="current_lang " >English</a>
+href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/twin-tower-view-2-bedroom-ruma-suite/" class="current_lang " >English</a>
 <span
 style="color: #ffffff;">&nbsp;|&nbsp;</span>
 <a class=" last" style="font-size: 13px;" >中文</a></div><div
@@ -62,7 +65,7 @@ style="display:inline;padding-bottom: 5px;"><a
 href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-information/covid-19-update/" target="_self" class="" title="Nav - Covid-19 Update">Covid-19 Update</a></li></ul><ul
 class="amend_reservation"><li
 style="display:inline;padding-bottom: 5px;"><a
-href="https://ovs.tour-list.com/DPSearch/?HotelCode=theruma&Language=en" target="_blank" class="ctc" title="Nav - Room and Flight" data-report-group="Rooms" data-report-label="Corner Studio - Room and Flight">Room & Flight</a></li></ul><ul
+href="https://ovs.tour-list.com/DPSearch/?HotelCode=theruma&Language=en" target="_blank" class="ctc" title="Nav - Room and Flight" data-report-group="Rooms" data-report-label="Twin Tower View 2 Bedroom <?=$site_name; ?>Suite - Room and Flight">Room & Flight</a></li></ul><ul
 class="amend_reservation"><li><a
 href="https://be.synxis.com/signIn?chain=24447&hotel=7000&SRC=30&locale=en-US" target="_blank">Amend Reservation</a></li></ul><div
 class="navbar-right hidden-sm-1015 nav-reservation header_reservation_form" style="display: inline;"><div
@@ -75,7 +78,7 @@ class="input-group nav_reserve_field date">
 <input
 type="text" class="form-control" placeholder="Check Out" aria-describedby="basic-addon2" value="" name="nav_checkout" id="nav_checkout" /></div>
 <button
-class="btn navbar-btn btn-sm btn-primary reserve puli_reserve ctc" id="nav_reserve_btn"  data-report-group="Rooms" data-report-label="Corner Studio">Reserve Now</button></div><div
+class="btn navbar-btn btn-sm btn-primary reserve puli_reserve ctc" id="nav_reserve_btn"  data-report-group="Rooms" data-report-label="Twin Tower View 2 Bedroom <?=$site_name; ?>Suite">Reserve Now</button></div><div
 class="hidden-lg-1015"><ul
 class="nav xm-center"><li><hr/>
 <a
@@ -105,13 +108,13 @@ class="col-lg-8 collapse navbar-collapse navbar-right" id="navbar-collapse"><div
 class="hidden-lg-1015"><ul
 class="nav xm-center navbar-nav" style="padding-left: 15px;padding-right: 15px;">
 <button
-style="padding: 10px; background:none; border: none;" class="ctc" id="mob_nav_reserve_btn" data-report-group="Rooms" data-report-label="Corner Studio"><a
+style="padding: 10px; background:none; border: none;" class="ctc" id="mob_nav_reserve_btn" data-report-group="Rooms" data-report-label="Twin Tower View 2 Bedroom <?=$site_name; ?>Suite"><a
 href="https://be.synxis.com/?chain=24447&hotel=7000&SRC=30&locale=en-US" target="_blank">Room Reservations</a></button><li
 style="display:inline;padding-bottom: 5px;">
 <a
 target="_blank" href="https://be.synxis.com/signIn?chain=24447&hotel=7000&SRC=30&locale=en-US">Amend Reservation</a></li><li
 style="display:inline;padding-bottom: 5px;"><a
-href="https://ovs.tour-list.com/DPSearch/?HotelCode=theruma&Language=en" target="_blank" class="ctc" title="Nav - Room and Flight" data-report-group="Rooms" data-report-label="Corner Studio - Room and Flight">Room & Flight</a></li><li
+href="https://ovs.tour-list.com/DPSearch/?HotelCode=theruma&Language=en" target="_blank" class="ctc" title="Nav - Room and Flight" data-report-group="Rooms" data-report-label="Twin Tower View 2 Bedroom <?=$site_name; ?>Suite - Room and Flight">Room & Flight</a></li><li
 style="display:inline;padding-bottom: 5px;"><a
 href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-information/covid-19-update/" target="_blank">Covid-19 Update</a></li><hr/></ul></div><ul
 class="nav navbar-nav menu_body_0"><li
@@ -137,7 +140,7 @@ class="navbar-item-deluxe-room navbar-item-1 menuitem_1"><a
 href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/deluxe-room/" title="">Deluxe Room</a></li><li
 class="navbar-item-grand-room navbar-item-2 menuitem_2"><a
 href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/grand-room/" title="">Grand Room</a></li><li
-class="navbar-item-corner-studio navbar-item-3 menuitem_3 active"><a
+class="navbar-item-corner-studio navbar-item-3 menuitem_3"><a
 href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/corner-studio/" title="">Corner Studio</a></li><li
 class="navbar-item-twin-tower-view-grand-studio navbar-item-4 menuitem_4"><a
 href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/twin-tower-view-grand-studio/" title="">Grand Studio</a></li><li
@@ -151,7 +154,7 @@ class="navbar-item-twin-tower-view-2-bedroom-deluxe-suite navbar-item-8 menuitem
 href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/twin-tower-view-2-bedroom-deluxe-suite/" title="">2-Bedroom Deluxe Suite</a></li><li
 class="navbar-item-twin-tower-view-ruma-suite navbar-item-9 menuitem_9"><a
 href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/twin-tower-view-ruma-suite/" title=""><?=$site_name; ?>Suite</a></li><li
-class="navbar-item-twin-tower-view-2-bedroom-ruma-suite navbar-item-10 menuitem_10 last"><a
+class="navbar-item-twin-tower-view-2-bedroom-ruma-suite navbar-item-10 menuitem_10 active last"><a
 href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/twin-tower-view-2-bedroom-ruma-suite/" title="">2-Bedroom <?=$site_name; ?>Suite</a></li></ul></li><li
 class="navbar-item-kuala-lumpur-luxury-hotel-dining navbar-item-9 menuitem_9 dropdown"><a
 aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown" href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-dining/" role="button" title="">Dining</a><ul
@@ -176,7 +179,7 @@ class="hidden-lg-1015"><ul
 class="nav xm-center navbar-nav" style="padding-left: 15px;padding-right: 15px;"><li
 class="dropdown" style="display:inline;padding-bottom: 5px;"><hr/>
 <a
-href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/corner-studio/#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="mob_find_hotel">Find a hotel</a><ul
+href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/twin-tower-view-2-bedroom-ruma-suite/#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="mob_find_hotel">Find a hotel</a><ul
 class="dropdown-menu" style="background-color:transparent;"><li
 class="">
 <a
@@ -188,27 +191,33 @@ href="http://www.thepuxuan.com/" target="_blank">Beijing</a></li></ul><hr/></li>
 class="nav xm-center"><li
 style="float:left; width:50%;">
 <a
-href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/corner-studio/?" class="current_lang " >English</a></li><li
+href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/twin-tower-view-2-bedroom-ruma-suite/?" class="current_lang " >English</a></li><li
 style="float:left; width:50%;">
 <a
-href="/zh-hans/kuala-lumpur-luxury-hotel-rooms-and-suites/corner-studio/?" class=" last" style="font-size: 13px;" >中文</a></li></ul></div></div></div></nav><div
+href="/zh-hans/kuala-lumpur-luxury-hotel-rooms-and-suites/twin-tower-view-2-bedroom-ruma-suite/?" class=" last" style="font-size: 13px;" >中文</a></li></ul></div></div></div></nav><div
 id="content"><div><div
 class="carousel slide dining wow fadeIn visible-lg-1015" data-ride="carousel" id="myCarousel"><ol
 class="carousel-indicators"><li
 data-target="#myCarousel" data-slide-to="0" class="active" ><b></b></li><li
-data-target="#myCarousel" data-slide-to="1" ><b></b></li></ol><div
+data-target="#myCarousel" data-slide-to="1" ><b></b></li><li
+data-target="#myCarousel" data-slide-to="2" ><b></b></li><li
+data-target="#myCarousel" data-slide-to="3" ><b></b></li></ol><div
 class="carousel-inner" role="listbox"><div
 class="item active"><div
-class="image_slide" title="" button_url="#" style="background-image: url(file/webpage/shared/banner/room/the-ruma-corner-studio-1.jpg); "></div></div><div
+class="image_slide" title="" button_url="#" style="background-image: url(file/webpage/shared/banner/room/the-ruma-deluxe-suite--4.jpg); "></div></div><div
 class="item "><div
-class="image_slide" title="" button_url="#" style="background-image: url(file/webpage/shared/banner/room/the-ruma-corner-studio-2.jpg); "></div></div></div><a
-class="left carousel-control" data-slide="prev" href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/corner-studio/#myCarousel" role="button" style="display:block!important;">
+class="image_slide" title="" button_url="#" style="background-image: url(file/webpage/shared/banner/room/the-ruma-deluxe-suite-bathroom-1.jpg); "></div></div><div
+class="item "><div
+class="image_slide" title="" button_url="#" style="background-image: url(file/webpage/shared/banner/room/2020-the-ruma-suite-bedroom.jpg); "></div></div><div
+class="item "><div
+class="image_slide" title="" button_url="#" style="background-image: url(file/webpage/shared/banner/room/2020-the-ruma-suite-living-room-night.jpg); "></div></div></div><a
+class="left carousel-control" data-slide="prev" href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/twin-tower-view-2-bedroom-ruma-suite/#myCarousel" role="button" style="display:block!important;">
 <span
 aria-hidden="true" class="glyphicon glyphicon-menu-left"></span>
 <span
 class="sr-only"></span>
 </a><a
-class="right carousel-control" data-slide="next" href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/corner-studio/#myCarousel" role="button" style="display:block!important;">
+class="right carousel-control" data-slide="next" href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/twin-tower-view-2-bedroom-ruma-suite/#myCarousel" role="button" style="display:block!important;">
 <span
 aria-hidden="true" class="glyphicon glyphicon-menu-right"></span>
 <span
@@ -217,31 +226,40 @@ class="sr-only"></span>
 id="carousel-example-generic-mobile" class="carousel slide hidden-lg-1015" data-ride="carousel"><ol
 class="carousel-indicators"><li
 data-target="#carousel-example-generic-mobile" data-slide-to="0" class="active" ><b></b></li><li
-data-target="#carousel-example-generic-mobile" data-slide-to="1" ><b></b></li></ol><div
+data-target="#carousel-example-generic-mobile" data-slide-to="1" ><b></b></li><li
+data-target="#carousel-example-generic-mobile" data-slide-to="2" ><b></b></li><li
+data-target="#carousel-example-generic-mobile" data-slide-to="3" ><b></b></li></ol><div
 class="carousel-inner" role="listbox"><div
 class="item active"><div>
 <img
-src="file/webpage/shared/banner/room/the-ruma-corner-studio-1.jpg" width="100%;"></div></div><div
+src="file/webpage/shared/banner/room/the-ruma-deluxe-suite--4.jpg" width="100%;"></div></div><div
 class="item "><div>
 <img
-src="file/webpage/shared/banner/room/the-ruma-corner-studio-2.jpg" width="100%;"></div></div></div>
+src="file/webpage/shared/banner/room/the-ruma-deluxe-suite-bathroom-1.jpg" width="100%;"></div></div><div
+class="item "><div>
+<img
+src="file/webpage/shared/banner/room/2020-the-ruma-suite-bedroom.jpg" width="100%;"></div></div><div
+class="item "><div>
+<img
+src="file/webpage/shared/banner/room/2020-the-ruma-suite-living-room-night.jpg" width="100%;"></div></div></div>
 <a
-class="left carousel-control" href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/corner-studio/#carousel-example-generic-mobile" role="button" data-slide="prev">
+class="left carousel-control" href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/twin-tower-view-2-bedroom-ruma-suite/#carousel-example-generic-mobile" role="button" data-slide="prev">
 <span
 class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 <span
 class="sr-only">Previous</span>
 </a>
 <a
-class="right carousel-control" href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/corner-studio/#carousel-example-generic-mobile" role="button" data-slide="next">
+class="right carousel-control" href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/twin-tower-view-2-bedroom-ruma-suite/#carousel-example-generic-mobile" role="button" data-slide="next">
 <span
 class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 <span
 class="sr-only">Next</span>
 </a></div></div><div
 class="container"><div
-class="row room"><h1 class="text-center">Corner Studio</h1><div
-class="col-md-8 col-sm-12 room-desc"><p>Sink into the local comforts of this spacious and daylight-filled 45 m&sup2; corner studio concept room, with views that overlook Kuala Lumpur&rsquo;s spectacular skyline.</p><p>The intelligently laid out space can be separated from its intricately designed bathroom area by a sliding floor-to-ceiling partition to create a more private setting.</p><p>A&nbsp;versatile lounge, work and dining area complement a room that exudes a distinctly generous and domestic character.</p><p>Included in all room rates are the following benefits and amenities.</p></div><div
+class="row room"><h1 class="text-center">2-Bedroom <?=$site_name; ?>Suite</h1><div
+class="col-md-8 col-sm-12 room-desc"><p>A truly remarkable space and designed as a domicile more so than a hotel suite, the sprawling and plush 172 m&sup2; <span
+style="display: inline-block;">2-Bedroom</span> <?=$site_name; ?>Suite comprises of two master bedrooms, a living room, a dining area, a kitchenette, a lounge and guest washroom, all furnished to the highest standards of luxury living.</p><p>Each of these master bedrooms come with resplendent views of the Petronas Twin Towers.</p><p>Included in all room rates are the following benefits and amenities.</p></div><div
 class="col-xs-12 col-md-4 text-center"><div
 class=" ame reservation_snippet"><h3>Reservations</h3><div
 class="ame-img"><div
@@ -272,7 +290,7 @@ value="3">3</option>
 class="clear-both"></div></div><div
 class="ame-img">
 <a
-href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/corner-studio/#" class="btn navbar-btn btn-sm btn-primary res-box-btn reserve puxuan_reserve ctc" id="ame_reserve_btn" data-report-label="Corner Studio" data-report-group="Rooms">Reserve Now</a>
+href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/twin-tower-view-2-bedroom-ruma-suite/#" class="btn navbar-btn btn-sm btn-primary res-box-btn reserve puxuan_reserve ctc" id="ame_reserve_btn" data-report-label="Twin Tower View 2 Bedroom <?=$site_name; ?>Suite" data-report-group="Rooms">Reserve Now</a>
 <a
 class="tlink" href="https://be.synxis.com/signIn?chain=24447&amp;hotel=7000&amp;SRC=30&amp;locale=en-US" target="_blank">change my booking<i
 class="glyphicon glyphicon-menu-right"></i></a></div>
@@ -287,23 +305,17 @@ alert(dict.ERROR_date_range_invalid||"Please select valid date range!");else{win
 resBoxBtnMargin();$(window).bind('resize',function(){resBoxBtnMargin();});});</script> <div
 class="col-md-8 col-sm-12 room-amenities"><div
 class="row"><div
-class="col-md-6 col-sm-12"><h4 class="white">Room Benefits</h4><ul><li>24-hour check-in and check-out (subject to prior notice of arrival and departure details at time of booking)</li><li>Daily breakfast for in-house guests at ATAS, your guest room or on-the-go</li><li>Best-in-class Wi-Fi anywhere throughout the hotel</li><li>Complimentary access to Luxe Guide Kuala Lumpur iOS or Android app*</li><li>Fully stocked minibar with daily replenishment</li><li>Welcome drink of choice</li><li>Local calls</li><li>Secretarial services</li></ul><div
+class="col-md-6 col-sm-12"><h4 class="white">Room Benefits</h4><ul><li>24-hour check-in and check-out (subject to prior notice of arrival and departure details at time of booking)</li><li>Butler service</li><li>Daily evening cocktail and canapes from 17:30 to 19:30 at SANTAI</li><li>Daily breakfast for in-house guests at ATAS, your guest room or on-the-go</li><li>Complimentary laundry and pressing service*</li><li>2-hour boardroom usage*</li><li>Best-in-class Wi-Fi anywhere throughout the hotel</li><li>Complimentary access to Luxe Guide Kuala Lumpur iOS or Android app*</li><li>Fully stocked premium minibar with daily replenishment</li><li>Welcome drink of choice</li><li>Local calls</li><li>Secretarial services</li></ul><div
 class="col-md-12"><p
 style="font-size: 13px;">*Conditions apply</p></div></div><div
-class="col-md-6 col-sm-12"><h4 class="white">Room Amenities</h4><ul><li>Petronas Twin Towers or The Exchange 106 view</li><li>Fully-enclosed bedroom with separate living area</li><li>King bed</li><li>Sumptuous 330-thread count Egyptian cotton bed linen</li><li>High-definition television with screen mirroring capability</li><li>Unique multi-scene lighting/dimming system</li><li>Automated blackout roller blind</li><li>Nespresso coffee machine</li><li>Traditional tea set</li><li>Custom bathtub with separate high pressure rainforest shower</li><li>Twin vanity basins</li><li>Personal safe</li></ul></div></div></div><div
-class="col-md-4 col-sm-12 room-floorplan"><h4 class="white">Floor Plan</h4><div
-class="row"><div
-class="col-xs-6 room-floorplan"><a
-data-toggle="modal" data-target="#CornerStudioV1Modal" href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/corner-studio/#"> <img
-class="floor-plan" alt="Corner Studio Floorplan" src="file/webpage/shared/rooms/the-ruma-%20corner-studio-floorplan.jpg"></a><p><a
-data-toggle="modal" data-target="#CornerStudioV1Modal" href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/corner-studio/#"><i
-class="fa fa-search"></i> Enlarge</a></p></div><div
-class="col-xs-6 room-floorplan"><a
-data-toggle="modal" data-target="#CornerStudioModal" href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/corner-studio/#"> <img
-class="floor-plan" alt="Corner Studio Floorplan" style="padding-top: 25px; max-height: 218px;" src="file/webpage/shared/rooms/the-ruma-corner-studio-floorplan-v2.jpg"></a><p><a
-data-toggle="modal" data-target="#CornerStudioModal" href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/corner-studio/#"><i
-class="fa fa-search"></i> Enlarge</a></p></div></div></div></div></div><div
-class="modal fade" id="CornerStudioV1Modal" role="dialog" aria-labelledby="eventSpaceChartModalLabel" tabindex="-1"><div
+class="col-md-6 col-sm-12"><h4 class="white">Room Amenities</h4><ul><li>Private entrance to a Corner Studio and <?=$site_name; ?>Suite</li><li>Separate living and dining room with guest washroom</li><li>Fully equipped kitchenette</li><li>Petronas Twin Towers view</li><li>King bed</li><li>Sumptuous 330-thread count Egyptian cotton bed linen</li><li>High-definition television with screen mirroring capability</li><li>Unique multi-scene lighting/dimming system</li><li>Automated blackout roller blind</li><li>International plugs and USB charge points throughout the room</li><li>Nespresso coffee machine</li><li>Traditional tea set</li><li>Custom bathtub with separate high pressure rainforest shower</li><li>Twin vanity basins</li><li>Personal safe</li></ul></div></div></div><div
+class="col-md-4 col-sm-12 room-floorplan"><h4 class="white">Floor Plan</h4>
+<a
+href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/twin-tower-view-2-bedroom-ruma-suite/#" data-toggle="modal" data-target="#2BedroomRumaModal"><img
+class="floor-plan" alt="2-Bedroom <?=$site_name; ?>Suite Floorplan" src="file/webpage/shared/rooms/the-ruma-2-bedroom-ruma-suite-floorplan.jpg"></a><p><a
+href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/twin-tower-view-2-bedroom-ruma-suite/#" data-toggle="modal" data-target="#2BedroomRumaModal"><i
+class="fa fa-search"></i> Enlarge</a></p></div></div></div><div
+class="modal fade" id="2BedroomRumaModal" role="dialog" aria-labelledby="eventSpaceChartModalLabel" tabindex="-1"><div
 class="modal-dialog" role="document"><div
 class="modal-content"><div
 class="modal-body" style="padding: 0px; text-align: center;"><div
@@ -311,38 +323,14 @@ class="modal_close"><button
 type="button" data-dismiss="modal"><span
 aria-hidden="true">&times;</span></button></div><div
 class="floorplan"><div
-class="col-md-8">Corner Studio</div><div
-class="col-md-4">Size: 45 m<sup>2</sup></div>
+class="col-md-8">2-Bedroom <?=$site_name; ?>Suite</div><div
+class="col-md-4">Size: 172 m<sup>2</sup></div>
 <br><img
-class="img-award img-responsive" style="max-height: 500px;" src="file/webpage/shared/rooms/enlarged/corner-studio.png"></div></div></div></div></div><div
-class="modal fade" id="CornerStudioModal" role="dialog" aria-labelledby="eventSpaceChartModalLabel" tabindex="-1"><div
-class="modal-dialog" role="document"><div
-class="modal-content"><div
-class="modal-body" style="padding: 0px; text-align: center;"><div
-class="modal_close"><button
-type="button" data-dismiss="modal"><span
-aria-hidden="true">&times;</span></button></div><div
-class="floorplan"><div
-class="col-md-8">Corner Studio</div><div
-class="col-md-4">Size: 45 m<sup>2</sup></div>
-<br><img
-class="img-award img-responsive" style="max-height: 500px;" src="file/webpage/shared/rooms/enlarged/the-ruma-corner-studio-floorplan.png"></div></div></div></div></div></div>
-
-
-
-
-
-
-
-
+class="img-award img-responsive" style="max-height: 500px;" src="file/webpage/shared/rooms/enlarged/2-bedroom-ruma-suite.png"></div></div></div></div></div></div>
 
 
 
 <?php include('../../footer.php'); ?>
-
-
-
-
 
 
 
