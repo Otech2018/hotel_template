@@ -327,11 +327,11 @@ The <?=$site_name; ?>Hotel and Residences<br>
 
 <?=$site_address; ?><br>
 <abbr
-title="Phone">T:</abbr><a
-href="tel: <?=$site_phone; ?>> <?=$site_phone; ?> </a><br>
+title="Phone">TEL:</abbr><a
+href="tel: <?=$site_phone; ?>"> <?=$site_phone; ?> </a><br>
 
 <abbr
-title="email">E: </abbr><a
+title="email">E-Mail: </abbr><a
 href="mailto:<?=$site_email; ?>"> <?=$site_email; ?>  </a> <br>
 </address><p
 style="padding-bottom: 10px;">CONNECT WITH US</p><ul
