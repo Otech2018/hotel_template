@@ -206,9 +206,8 @@ src="file/webpage/shared/banner/room/ruma-residences-new.jpg" width="100%;"></di
 class="container"><h1 class="text-center">Residences</h1><div><div
 class="row"><div
 class="col-md-offset-2 col-md-8"><p>The <?=$site_name; ?>Residences represents a collective effort to create high quality livable spaces that transcend the fashionable buzzworld of 'lifestyle' and instead focuses on 21<sup>st</sup> Century living. Sleek and modern spaces are offered in every unit, each with state-of-the-art design and technology for unrivalled levels of comfort and conveniences. The light, airy rooms offer a unique feeling of privacy and yet downtown Kuala Lumpur is at your doorstep.</p><p>For more information, please contact us on either <a
-href="tel:+60321611268">+60 3-2161 1268</a> / <a
-href="tel:+60183886988">+60 18-388 6988</a> or <a
-href="mailto:sales_enquiry@ireka.com.my">sales_enquiry@ireka.com.my</a></p><p>You can also click <a
+href="tel:<?=$site_phone; ?>"><?=$site_phone; ?></a> or <a
+href="mailto:<?=$site_email; ?>"><?=$site_email; ?></a></p><p>You can also click <a
 >here</a>.</p></div></div></div></div></div>
 
 
