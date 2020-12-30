@@ -130,7 +130,7 @@ href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel/awards/" title="">Awards</a></
 class="navbar-item-photo-gallery navbar-item-5 menuitem_5"><a
 href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel/photo-gallery/" title="">Photo Gallery</a></li><li
 class="navbar-item-stories navbar-item-6 menuitem_6 last"><a
-href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel/stories/" title="">Stories of The RuMa</a></li></ul></li><li
+href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel/stories/" title="">Stories of The <?=$site_name; ?></a></li></ul></li><li
 class="navbar-item-kuala-lumpur-luxury-hotel-rooms-and-suites navbar-item-8 menuitem_8 dropdown"><a
 aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown" href="<?=$site_link; ?>/kuala-lumpur-luxury-hotel-rooms-and-suites/" role="button" title="">Rooms &amp; Suites</a><ul
 class="dropdown-menu menu_body_1"><li

@@ -36,3 +36,9 @@ RuMa
 
 /file/template/1/img/ruma-logo.png
 <?=$site_link; ?>/logo.png
+
+
+
+RuMa</a>
+
+<?=$site_name; ?></a>
